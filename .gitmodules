@@ -1,0 +1,6 @@
+[submodule "rocketshoes-web"]
+	path = rocketshoes-web
+	url = https://github.com/rafacdomin/rocketshoes-web
+[submodule "rocketshoes-mobile"]
+	path = rocketshoes-mobile
+	url = https://github.com/rafacdomin/rocketshoes-mobile
