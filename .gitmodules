@@ -4,3 +4,6 @@
 [submodule "rocketshoes-mobile"]
 	path = rocketshoes-mobile
 	url = https://github.com/rafacdomin/rocketshoes-mobile
+[submodule "rocketshoes-json-server"]
+	path = rocketshoes-json-server
+	url = https://github.com/rafacdomin/rocketshoes-json-server
