@@ -11,10 +11,6 @@
   <a href="#author">Author</a>
 </p>
 
-<p align="center">
-  <a href="https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fgithub.com%2Frafacdomin%2Fproffy%2Fblob%2Fmaster%2Fapi%2FInsomnia_proffy.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 ## About
 
 E-commerce project developed at [Rocketseat GoStack Bootcamp](https://rocketseat.com.br/), where you can choose the products and add them to the cart, changing the quantity, viewing the subtotal and the total price of the actual order.
